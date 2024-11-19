@@ -44,3 +44,4 @@ echo "alias killgazebogym='killall -9 rosout roslaunch rosmaster gzserver nodele
 # ENPH353_Lab7
 # ENPH353_Lab7
 # ENPH353_Lab7
+# ENPH353_Lab8
