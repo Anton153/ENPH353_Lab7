@@ -42,3 +42,4 @@ We recommend creating an alias to kill those processes.
 echo "alias killgazebogym='killall -9 rosout roslaunch rosmaster gzserver nodelet robot_state_publisher gzclient'" >> ~/.bashrc
 ```
 # ENPH353_Lab7
+# ENPH353_Lab7
